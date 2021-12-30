@@ -85,7 +85,7 @@ take to recover the project:
 
 ## MARKETING
 
-*Community:
+*Community:*
 
   ✔ Manager: assign an official role in order to have a single voice on all social networks
   (Twitter, Tlegram, Discord, and others). Part of the dev reward will be assigned to this
@@ -95,7 +95,7 @@ take to recover the project:
   them that we are different. There are thousands of people who can contribute to the success
   of the project.
 
-*Sales:
+*Sales:*
 
   ✔ Public explorer: in order to advertise the project it would be useful to list on public
   explorers such as solus.cryptoscope.cc or openchains.info or others. In this way, in addition
