@@ -14,7 +14,7 @@ take to recover the project:
 
 # REBRAND
 
-*Graphical:*
+## *Graphical:*
 
   ✔ Logo: similar but modern (colors and shadows).
 
@@ -23,7 +23,7 @@ take to recover the project:
   ✔ App: similar but more modern (colors and shades).
 
 
-*Technical:*
+## *Technical:*
 
   ✔ App: adding a custodial wallet to transact directly onchain, automatic payments from the
   pool with new features.
@@ -37,7 +37,7 @@ take to recover the project:
 
 # NEW COIN
 
-*Technical specifications (swich to Pos/MN):*
+## *Technical specifications (swich to Pos/MN):*
 
   ✔ coin type: Pos/MN
 
@@ -57,11 +57,7 @@ take to recover the project:
 
   ✔ MN collateral halving: one time after block 500.000
   
-
-
-*SWAP to the new chain:*
-
-
+## *SWAP to the new chain:*
 
   ✔ exchange ratio: 50/1 (50 old emrals =1 new emrals)
 
@@ -69,10 +65,7 @@ take to recover the project:
 
   ✔ duration: endless
 
-
-
-*Tokenomics (premine: 999.999):*
-
+## *Tokenomics (premine: 999.999):*
 
   ✔ swap: 150.000
 
@@ -85,7 +78,7 @@ take to recover the project:
 
 ## MARKETING
 
-*Community:*
+## *Community:*
 
   ✔ Manager: assign an official role in order to have a single voice on all social networks
   (Twitter, Tlegram, Discord, and others). Part of the dev reward will be assigned to this
@@ -95,7 +88,7 @@ take to recover the project:
   them that we are different. There are thousands of people who can contribute to the success
   of the project.
 
-*Sales:*
+## *Sales:*
 
   ✔ Public explorer: in order to advertise the project it would be useful to list on public
   explorers such as solus.cryptoscope.cc or openchains.info or others. In this way, in addition
